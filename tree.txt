@@ -1,0 +1,21 @@
+11,real
+7,an athlete
+17,from a movie
+5,retired
+9,a singer
+15,a superhero
+19,from a video game
+3,still playing
+6,Tommy Mellott
+8,Sabrina Carpenter
+10,Reese Pearsall
+13,a web shooter
+16,Indiana Jones
+18,Arthur Morgan
+20,Michael Scott
+1,Hall of famer
+4,Tom Brady
+12,Spiderman
+14,Batman
+0,Billy james
+2,Spencer James
